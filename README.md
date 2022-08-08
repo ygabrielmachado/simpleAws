@@ -12,3 +12,5 @@
 
 ## Attention points
 - Remember to use [terraform destroy] if it is not necessary to keep the test machines running with the applications to avoid consuming resources on your account
+
+
